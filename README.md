@@ -21,5 +21,5 @@ I like mixing creativity with tech sometimes that’s coding, sometimes that’s
 ---
 
 ## 📫 Connect
-- [LinkedIn](www.linkedin.com/in/bildad-matiko-249231389)
+- [LinkedIn](https://www.linkedin.com/in/bildad-matiko-249231389)
 - [instagram](https://www.instagram.com/breeze0fficial?igsh=MWdjYjBkOTVrYWo5Zg%3D%3D&utm_source=qr)
