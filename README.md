@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello there!
 
-<!--
-**breeze0g/breeze0g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a programmer and coder who loves building things on the web and editing videos.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I Do
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Laravel  
+- **Other Skills:** Digital editing & video editing  
+
+---
+
+## 🎮 About Me
+When I’m not coding, you’ll probably find me:  
+- 🏀 Playing basketball  
+- 🎮 Gaming (my absolute favorite!)  
+
+I like mixing creativity with tech sometimes that’s coding, sometimes that’s editing videos.  
+
+---
+
+## 📫 Connect
+- [LinkedIn](www.linkedin.com/in/bildad-matiko-249231389)
+- [instagram](https://www.instagram.com/breeze0fficial?igsh=MWdjYjBkOTVrYWo5Zg%3D%3D&utm_source=qr)
